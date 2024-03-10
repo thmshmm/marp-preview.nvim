@@ -32,7 +32,7 @@ With custom command and options:
 require('marp-preview').setup({
   command = '/my/marp',
   options = {
-    '--htlm',
+    '--html',
   }
 })
 ```
